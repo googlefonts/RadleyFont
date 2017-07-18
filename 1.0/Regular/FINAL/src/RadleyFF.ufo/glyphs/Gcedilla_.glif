@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcedilla" format="1">
-  <advance width="1576"/>
-  <outline>
-    <component base="G"/>
-    <component base="commaaccentcomb" xOffset="421.500"/>
-  </outline>
-</glyph>
