@@ -1,5 +1,20 @@
-feature liga {
+@.O_left = [ O' Gcedilla C G Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Cdotaccent Ccaron Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE uni020C uni020E ];
 
+@.H_left = [ H' DZcaron Dzcaron uni01C7 uni01C8 uni01CA uni01CB B D E F I K L N P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Thorn Dcaron Dcroat Emacron Eogonek Ecaron Hbar Itilde Imacron Ibreve Iogonek Idot IJ Kcommaaccent Lacute Lcommaaccent Lcaron Ldot Lslash Nacute Ncommaaccent Ncaron Eng Racute Rcommaaccent Rcaron uni0206 uni0208 uni020A uni0210 uni0212 ];
+
+@.n_right = [ n' h m ntilde hbar nacute ncommaaccent ncaron eng ];
+
+@.o_left = [ o' c e q ccedilla egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis oslash cacute cdotaccent ccaron dcaron dslash emacron eogonek ecaron omacron obreve ohungarumlaut oe uni0205 uni0207 uni020D uni020F c_k ];
+
+@.n_left = [ n' b h k l m n p r ntilde kcommaaccent kgreenlandic nacute ncommaaccent ncaron eng racute rcommaaccent rcaron uni0211 uni0213 ];
+
+@.H_right = [ H' I N Ntilde Hbar Itilde Imacron Ibreve Iogonek Idot IJ Jcircumflex Nacute Ncommaaccent Ncaron Eng uni0208 uni020A ];
+
+@.o_right = [ o' b p ograve oacute ocircumflex otilde odieresis oslash thorn omacron obreve ohungarumlaut uni020D uni020F ];
+
+@.O_right = [ O' D Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Omacron Obreve Ohungarumlaut uni020C uni020E ];
+
+feature liga {
   sub f i by fi ;
 
   sub f l by fl;
@@ -13,8 +28,8 @@ feature liga {
   sub f f by ff;
 
   sub t t by tt;
-
 } liga;
+
 feature kern {
    pos A uni0217 -39;
    pos A uni0216 -43;
@@ -4041,6 +4056,4 @@ feature kern {
    pos uni0216 period -70;
    pos uni0216 comma -70;
 } kern;
-
-
 

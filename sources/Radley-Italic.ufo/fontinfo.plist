@@ -13,11 +13,13 @@
 	<key>familyName</key>
 	<string>Radley</string>
 	<key>italicAngle</key>
-	<real>-12.0</real>
+	<real>-12</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Radley</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/07/18 10:41:45</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
@@ -110,6 +112,8 @@
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1973</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -117,11 +121,13 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.036666700000000003</real>
+	<real>0.036700000000000003</real>
 	<key>postscriptBlueShift</key>
 	<integer>6</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-378</integer>
+		<integer>-378</integer>
 		<integer>-26</integer>
 		<integer>0</integer>
 		<integer>899</integer>
@@ -133,12 +139,6 @@
 	<string>space</string>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Radley-Italic</string>
 	<key>postscriptForceBold</key>
@@ -149,11 +149,9 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-378</integer>
-		<integer>-378</integer>
 	</array>
 	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
+	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>70</integer>
@@ -171,8 +169,6 @@
 	<integer>102</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>

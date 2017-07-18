@@ -4,9 +4,6 @@
   <unicode hex="0311"/>
   <outline>
     <contour>
-      <point x="346" y="900" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="74" y="997" type="curve"/>
       <point x="131" y="997" type="line"/>
       <point x="168" y="1080"/>
@@ -22,5 +19,14 @@
       <point x="163" y="1244"/>
       <point x="78" y="1151"/>
     </contour>
+    <contour>
+      <point x="346" y="900" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-18 09:41:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>

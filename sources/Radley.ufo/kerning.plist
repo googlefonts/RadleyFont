@@ -3201,8 +3201,6 @@
 		<integer>-184</integer>
 		<key>dcaron</key>
 		<integer>-184</integer>
-		<key>dslash</key>
-		<integer>-184</integer>
 		<key>e</key>
 		<integer>-160</integer>
 		<key>eacute</key>
@@ -3386,8 +3384,6 @@
 		<integer>-184</integer>
 		<key>dcaron</key>
 		<integer>-184</integer>
-		<key>dslash</key>
-		<integer>-184</integer>
 		<key>e</key>
 		<integer>-160</integer>
 		<key>eacute</key>
@@ -3570,8 +3566,6 @@
 		<key>d</key>
 		<integer>-184</integer>
 		<key>dcaron</key>
-		<integer>-184</integer>
-		<key>dslash</key>
 		<integer>-184</integer>
 		<key>e</key>
 		<integer>-160</integer>
@@ -4074,8 +4068,6 @@
 		<integer>-162</integer>
 		<key>dcaron</key>
 		<integer>-162</integer>
-		<key>dslash</key>
-		<integer>-162</integer>
 		<key>e</key>
 		<integer>-162</integer>
 		<key>eacute</key>
@@ -4266,8 +4258,6 @@
 		<key>d</key>
 		<integer>-162</integer>
 		<key>dcaron</key>
-		<integer>-162</integer>
-		<key>dslash</key>
 		<integer>-162</integer>
 		<key>e</key>
 		<integer>-148</integer>
@@ -4473,8 +4463,6 @@
 		<key>d</key>
 		<integer>-162</integer>
 		<key>dcaron</key>
-		<integer>-162</integer>
-		<key>dslash</key>
 		<integer>-162</integer>
 		<key>e</key>
 		<integer>-151</integer>
@@ -4689,8 +4677,6 @@
 		<integer>-162</integer>
 		<key>dcaron</key>
 		<integer>-162</integer>
-		<key>dslash</key>
-		<integer>-162</integer>
 		<key>e</key>
 		<integer>-151</integer>
 		<key>eacute</key>
@@ -4903,8 +4889,6 @@
 		<key>d</key>
 		<integer>-162</integer>
 		<key>dcaron</key>
-		<integer>-162</integer>
-		<key>dslash</key>
 		<integer>-162</integer>
 		<key>e</key>
 		<integer>-151</integer>
@@ -7956,8 +7940,6 @@
 		<key>d</key>
 		<integer>-184</integer>
 		<key>dcaron</key>
-		<integer>-184</integer>
-		<key>dslash</key>
 		<integer>-184</integer>
 		<key>e</key>
 		<integer>-160</integer>

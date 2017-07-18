@@ -4,13 +4,19 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="390" y="900" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="691" y="1044" type="line"/>
       <point x="691" y="1172" type="line"/>
       <point x="89" y="1172" type="line"/>
       <point x="89" y="1044" type="line"/>
     </contour>
+    <contour>
+      <point x="390" y="900" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-18 09:41:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>

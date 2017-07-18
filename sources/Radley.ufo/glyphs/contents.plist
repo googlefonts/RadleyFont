@@ -100,8 +100,6 @@
 	<string>I_circumflex.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
-	<key>Idot</key>
-	<string>I_dot.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Imacron</key>
@@ -348,8 +346,6 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
-	<key>dslash</key>
-	<string>dslash.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -618,8 +614,6 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>st</key>
-	<string>st.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>t</key>
@@ -668,8 +662,6 @@
 	<string>underscore.glif</string>
 	<key>uni00AD</key>
 	<string>uni00A_D_.glif</string>
-	<key>uni01C6</key>
-	<string>uni01C_6.glif</string>
 	<key>uni01C7</key>
 	<string>uni01C_7.glif</string>
 	<key>uni01C8</key>

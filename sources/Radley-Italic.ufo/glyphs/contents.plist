@@ -42,14 +42,10 @@
 	<string>C_circumflex.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
-	<key>DZ</key>
-	<string>D_Z_.glif</string>
 	<key>Dcaron</key>
 	<string>D_caron.glif</string>
 	<key>Dcroat</key>
 	<string>D_croat.glif</string>
-	<key>Dz</key>
-	<string>D_z.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -576,8 +572,6 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>st</key>
-	<string>st.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>t</key>
@@ -640,8 +634,6 @@
 	<string>uni0008.glif</string>
 	<key>uni0009</key>
 	<string>uni0009.glif</string>
-	<key>uni000A</key>
-	<string>uni000A_.glif</string>
 	<key>uni000D</key>
 	<string>uni000D_.glif</string>
 	<key>uni0010</key>
@@ -666,12 +658,8 @@
 	<string>uni0019.glif</string>
 	<key>uni00AD</key>
 	<string>uni00A_D_.glif</string>
-	<key>uni01C4</key>
-	<string>uni01C_4.glif</string>
 	<key>uni01C5</key>
 	<string>uni01C_5.glif</string>
-	<key>uni01C6</key>
-	<string>uni01C_6.glif</string>
 	<key>uni01C7</key>
 	<string>uni01C_7.glif</string>
 	<key>uni01C8</key>
