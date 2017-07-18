@@ -4,13 +4,36 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
-	<key>com.schriftgestaltung.font.description</key>
-	<string>Copyright (c) 2010 by vernon adams. All rights reserved.</string>
+	<key>com.schriftgestaltung.disablesLastChange</key>
+	<true/>
+	<key>com.schriftgestaltung.font.Disable Last Change</key>
+	<integer>1</integer>
+	<key>com.schriftgestaltung.font.Use Line Breaks</key>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.font.fsType</key>
 	<array>
 	</array>
+	<key>com.schriftgestaltung.font.license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
+		<key>com.schriftgestaltung.font.Disable Last Change</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.Use Line Breaks</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.description</key>
+		<string>Copyright (c) 2010 by vernon adams. All rights reserved.</string>
+		<key>com.schriftgestaltung.font.fsType</key>
+		<array>
+		</array>
+		<key>com.schriftgestaltung.font.license</key>
+		<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.licenseURL</key>
+		<string>http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.vendorID</key>
+		<string>newt</string>
 		<key>org.robofab.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -710,7 +733,6 @@
 		<string>space</string>
 		<string>nbspace</string>
 		<string>CR</string>
-		<string>uni000D</string>
 		<string>.notdef</string>
 		<string>Euro</string>
 		<string>cent</string>
@@ -749,7 +771,6 @@
 		<string>uni030F</string>
 		<string>uni0311</string>
 		<string>commaaccent</string>
-		<string>uni0326</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -767,10 +788,9 @@
 		<string>foundryicon</string>
 		<string>NULL</string>
 		<string>tt</string>
-		<string>uni0000</string>
 		<string>uni0001</string>
-		<string>uni0002</string>
 		<string>uni0003</string>
+		<string>uni0002</string>
 		<string>uni0004</string>
 		<string>uni0005</string>
 		<string>uni0006</string>
@@ -782,8 +802,8 @@
 		<string>uni0012</string>
 		<string>uni0013</string>
 		<string>uni0014</string>
-		<string>uni0015</string>
 		<string>uni0016</string>
+		<string>uni0015</string>
 		<string>uni0017</string>
 		<string>uni0018</string>
 		<string>uni0019</string>

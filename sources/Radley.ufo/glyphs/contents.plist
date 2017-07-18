@@ -494,6 +494,8 @@
 	<string>n.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>nbspace</key>
+	<string>nbspace.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
 	<key>ncommaaccent</key>
@@ -730,8 +732,6 @@
 	<string>uni030F_.glif</string>
 	<key>uni0311</key>
 	<string>uni0311.glif</string>
-	<key>uni0326</key>
-	<string>uni0326.glif</string>
 	<key>uniFB00</key>
 	<string>uniF_B_00.glif</string>
 	<key>uniFB01</key>
@@ -756,6 +756,8 @@
 	<string>y.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
+	<key>yacute.001</key>
+	<string>yacute.001.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
 	<key>yen</key>
