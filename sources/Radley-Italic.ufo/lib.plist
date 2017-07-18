@@ -10,6 +10,8 @@
 	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<integer>1</integer>
+	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
+	<true/>
 	<key>com.schriftgestaltung.font.fsType</key>
 	<array>
 	</array>
@@ -789,10 +791,10 @@
 		<string>NULL</string>
 		<string>tt</string>
 		<string>uni0001</string>
-		<string>uni0003</string>
 		<string>uni0002</string>
-		<string>uni0004</string>
+		<string>uni0003</string>
 		<string>uni0005</string>
+		<string>uni0004</string>
 		<string>uni0006</string>
 		<string>uni0007</string>
 		<string>uni0008</string>
@@ -802,8 +804,8 @@
 		<string>uni0012</string>
 		<string>uni0013</string>
 		<string>uni0014</string>
-		<string>uni0016</string>
 		<string>uni0015</string>
+		<string>uni0016</string>
 		<string>uni0017</string>
 		<string>uni0018</string>
 		<string>uni0019</string>

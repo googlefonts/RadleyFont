@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1302</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<string>Copyright 2011 The Radley Project Authors (https://github.com/googlefonts/RadleyFont)</string>
 	<key>descender</key>
 	<integer>-378</integer>
 	<key>familyName</key>
@@ -48,9 +48,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1973</integer>
+	<integer>1980</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-615</integer>
+	<integer>615</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-378</integer>

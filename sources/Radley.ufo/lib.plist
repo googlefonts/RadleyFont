@@ -10,6 +10,8 @@
 	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<integer>1</integer>
+	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
+	<true/>
 	<key>com.schriftgestaltung.font.fsType</key>
 	<array>
 	</array>
@@ -19,6 +21,19 @@
 	<string>http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
+		<key>com.schriftgestaltung.font.Disable Last Change</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.Use Line Breaks</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.fsType</key>
+		<array>
+		</array>
+		<key>com.schriftgestaltung.font.license</key>
+		<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.licenseURL</key>
+		<string>http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.vendorID</key>
+		<string>newt</string>
 		<key>com.typemytype.robofont.b.layerStrokeColor</key>
 		<array>
 			<real>0.5</real>
@@ -752,6 +767,7 @@
 		<string>uniFB04</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
+		<string>mu</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -808,6 +824,7 @@
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>space</string>
+		<string>nbspace</string>
 		<string>CR</string>
 		<string>.notdef</string>
 		<string>Euro</string>
@@ -857,15 +874,13 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
-		<string>mu</string>
-		<string>tt</string>
-		<string>ff</string>
-		<string>ffl</string>
-		<string>ffi</string>
 		<string>ck</string>
+		<string>ff</string>
+		<string>ffi</string>
+		<string>ffl</string>
 		<string>foundryicon</string>
 		<string>NULL</string>
-		<string>nbspace</string>
+		<string>tt</string>
 	</array>
 </dict>
 </plist>
